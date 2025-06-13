@@ -1,9 +1,8 @@
-streamlit 
-streamlit_authenticator
-streamlit_option_menu
-random
-pandas 
-sklearn.metrics.pairwise
-sklearn.feature_extraction.text 
-nltk.corpus 
-numpy 
+streamlit==1.34.0
+streamlit-authenticator==0.2.0
+streamlit-option-menu==0.3.11
+pandas==2.2.2
+scikit-learn==1.4.2
+nltk==3.8.1
+numpy==1.26.4
+scipy==1.13.0
