@@ -1,6 +1,6 @@
 streamlit 
-streamlit_authenticator import Authenticate
-streamlit_option_menu import option_menu
+streamlit_authenticator
+streamlit_option_menu
 random
 pandas 
 sklearn.metrics.pairwise
